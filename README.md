@@ -1,11 +1,11 @@
 # ejercicio-2
 Inicio:promedio tres numero
 
-## declarar variablesn
--numero1
--numero2
--numero3
--resultado
+## declarar variables
+- numero1
+- numero2
+- numero3
+- resultado
 
 ## proceso
 
